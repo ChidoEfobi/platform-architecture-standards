@@ -39,7 +39,9 @@ Names must allow an engineer to understand resource purpose **without opening th
 ## 3. Naming Format Standard
 
 All resources must follow this pattern:
-'<resource>-<org>-<env>-<region>-<workload>-<tier>-<instance>'
+-
+
+resource-org-env-region-workload-tier-instance
 
 
 Example:
@@ -198,7 +200,5 @@ Updates to this standard must be approved by:
 - Security Architecture Team  
 - Platform Engineering  
 
----
 
-**End of Document**
 
