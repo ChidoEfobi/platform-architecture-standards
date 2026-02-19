@@ -25,4 +25,4 @@ These standards reflect real-world platform engineering practices used in produc
 - Environment isolation architecture
 - Security platform naming models
 
-The purpose of this repository is to demonstrate my approach to designing governed, enterprise-ready cloud platforms — not just deploying infrastructure.
+The purpose of this repository is to demonstrate my approach to designing governed, enterprise-ready cloud platforms, and not just deploying infrastructure.
